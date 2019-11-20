@@ -2,24 +2,12 @@
 # yarn lockfile v1
 
 
-is-array@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/is-array/-/is-array-1.0.1.tgz#e9850cc2cc860c3bc0977e84ccf0dd464584279a"
-  integrity sha1-6YUMwsyGDDvAl36EzPDdRkWEJ5o=
+jquery@3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
+  integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
 
-jquery@2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-2.1.2.tgz#b68f154cb2ea4731924883e9fe20ec199d1dc1e2"
-  integrity sha1-to8VTLLqRzGSSIPp/iDsGZ0dweI=
-
-opencolor@0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/opencolor/-/opencolor-0.1.0.tgz#8fb2afa13e1acae36d9914a5491dcc958fa8d2ea"
-  integrity sha1-j7KvoT4ayuNtmRSlSR3MlY+o0uo=
-  dependencies:
-    tinycolor2 "^1.3.0"
-
-tinycolor2@^1.3.0:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/tinycolor2/-/tinycolor2-1.4.1.tgz#f4fad333447bc0b07d4dc8e9209d8f39a8ac77e8"
-  integrity sha1-9PrTM0R7wLB9TcjpIJ2POaisd+g=
+pkg-b@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/pkg-b/-/pkg-b-1.0.0.tgz#4e233c34c33a14a82f7c4431e68de0f1f15367ea"
+  integrity sha1-TiM8NMM6FKgvfEQx5o3g8fFTZ+o=
