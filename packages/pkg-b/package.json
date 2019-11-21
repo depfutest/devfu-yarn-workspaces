@@ -5,6 +5,7 @@
   "dependencies": {
     "is-array": "1.0.1",
     "opencolor": "0.1.0",
+    "clone": "2.1.1",
     "pkg-a": "1.0.0"
   }
 }
