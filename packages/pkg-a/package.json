@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "is-array": "1.0.1",
-    "opencolor": "0.1.0"
+    "opencolor": "0.2.0"
   }
 }
