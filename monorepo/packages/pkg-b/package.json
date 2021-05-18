@@ -1,6 +1,9 @@
 {
   "name": "pkg-b",
   "version": "1.0.0",
+  "workspaces": [
+    "nested_packages/*"
+  ],
   "dependencies": {
     "is-array": "1.0.1",
     "opencolor": "0.1.0",
