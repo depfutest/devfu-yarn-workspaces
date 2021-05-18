@@ -2,6 +2,7 @@
   "name": "pkg-a",
   "version": "1.0.0",
   "dependencies": {
+    "devfu-internals": "file:../../deps/devfu-internals",
     "is-array": "1.0.1",
     "opencolor": "0.1.0"
   }
