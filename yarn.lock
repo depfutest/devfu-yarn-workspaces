@@ -12,10 +12,10 @@ is-array@1.0.1:
   resolved "https://registry.yarnpkg.com/is-array/-/is-array-1.0.1.tgz#e9850cc2cc860c3bc0977e84ccf0dd464584279a"
   integrity sha1-6YUMwsyGDDvAl36EzPDdRkWEJ5o=
 
-jquery@2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-2.1.2.tgz#b68f154cb2ea4731924883e9fe20ec199d1dc1e2"
-  integrity sha1-to8VTLLqRzGSSIPp/iDsGZ0dweI=
+jquery@3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.2.tgz#8302bbc9160646f507bdf59d136a478b312783c4"
+  integrity sha512-/e7ulNIEEYk1Z/l4X0vpxGt+B/dNsV8ghOPAWZaJs8pkGvsSC0tm33aMGylXcj/U7y4IcvwtMXPMyBFZn/gK9A==
 
 opencolor@0.1.0:
   version "0.1.0"
